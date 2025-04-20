@@ -25,7 +25,7 @@ View the interactive dashboards on Tableau Public:
 - [Sales & Customer Performance Dashboards]([bit.ly/SalesDash2023](https://public.tableau.com/views/SalesCustomerPerformanceAnalyticsDashboards/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 
 - **Screenshots**: Images of the Sales and Customer Dashboards for quick reference.
-- **Documentation**: [Business Requirements Document](Business_Requirements_Document.md) outlining the project specifications.
+- **Documentation**: [Business Requirements Document](Business_Requirement_Document.markdown) outlining the project specifications.
 
 ## Impact
 
