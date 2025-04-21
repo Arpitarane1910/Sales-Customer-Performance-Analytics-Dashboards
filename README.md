@@ -22,7 +22,7 @@ This project involves the development of two interactive Tableau dashboards to a
 
 View the interactive dashboards on Tableau Public:
 
-- [![Sales & Customer Performance Analytics Dashboards](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)]([https://public.tableau.com/views/KingCountyHouseSales_17160755360280/KingCountyHouseSales?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/SalesCustomerPerformanceAnalyticsDashboards/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- - [![Sales & Customer Performance Analytics Dashboards](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)](https://public.tableau.com/views/SalesCustomerPerformanceAnalyticsDashboards/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Click on the image above to interact with the dashboard on Tableau Public.
 
